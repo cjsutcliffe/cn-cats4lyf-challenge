@@ -1,3 +1,6 @@
+import { useState, useEffect } from 'react';
+import { faker } from '@faker-js/faker';
+import styled from "styled-components";
 import './App.css';
 
 function App() {
